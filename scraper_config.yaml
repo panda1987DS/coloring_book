@@ -1,0 +1,9 @@
+url: "https://nukadeti.ru/"
+path_l1: "/raskraski/"
+class_l1: "color-cats"
+class_l2: "std-list"
+class_l3: "download"
+group_name_l1: "text"
+save_to_file: False
+filename: "scraper2.csv"
+dir_to_pict: "pict2/"

@@ -1,0 +1,8 @@
+url: "https://deti-online.com"
+path_l1: "/raskraski/"
+class_l1: "raskraski-cat-home"
+class_l2: "img-list-2x3"
+class_l3: "contained-btn"
+group_name_l1: "title"
+save_to_file: 1
+filename: "scraper2.csv"
